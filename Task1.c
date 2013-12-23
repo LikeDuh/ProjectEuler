@@ -13,13 +13,9 @@ int main () {
       result = result + i;
     }
     
-    
-
-  }
+ }
   
 
   printf("%d\n", result);
-
-
 
 }
