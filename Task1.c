@@ -11,9 +11,9 @@ int main () {
     if(i % 3 == 0 || i % 5 == 0) {
 
       result = result + i;
-    }
+     }
     
- }
+   }
   
 
   printf("%d\n", result);
